@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HBCampaignModule.Infrastructure/1.0.0": {
+        "dependencies": {
+          "HBCampaignModule.Domain": "1.0.0"
+        },
+        "runtime": {
+          "HBCampaignModule.Infrastructure.dll": {}
+        }
+      },
+      "HBCampaignModule.Domain/1.0.0": {
+        "runtime": {
+          "HBCampaignModule.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HBCampaignModule.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HBCampaignModule.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "HBCampaignModule.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HBCampaignModule.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HBCampaignModule.Domain.dll": {}
+        }
+      },
+      "HBCampaignModule.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HBCampaignModule.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HBCampaignModule.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HBCampaignModule.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HBCampaignModule.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HBCampaignModule.Domain/HBCampaignModule.Domain.csproj",
+      "msbuildProject": "../HBCampaignModule.Domain/HBCampaignModule.Domain.csproj"
+    },
+    "HBCampaignModule.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../HBCampaignModule.Infrastructure/HBCampaignModule.Infrastructure.csproj",
+      "msbuildProject": "../HBCampaignModule.Infrastructure/HBCampaignModule.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "HBCampaignModule.Domain >= 1.0.0",
+      "HBCampaignModule.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Application\\HBCampaignModule.Application.csproj",
+      "projectName": "HBCampaignModule.Application",
+      "projectPath": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Application\\HBCampaignModule.Application.csproj",
+      "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+      "outputPath": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Domain\\HBCampaignModule.Domain.csproj": {
+              "projectPath": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Domain\\HBCampaignModule.Domain.csproj"
+            },
+            "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Infrastructure\\HBCampaignModule.Infrastructure.csproj": {
+              "projectPath": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.Infrastructure\\HBCampaignModule.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

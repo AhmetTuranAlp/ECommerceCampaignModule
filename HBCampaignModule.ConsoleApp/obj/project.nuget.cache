@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/WYPYCNB+Qfhs8REq9ZuraexcgsaExno8mXjZLXWqOKKbpRSOROXkIy5N0jM0zvW9XTg90Ww5ycMsrrQ/3LwA==",
+  "success": true,
+  "projectFilePath": "D:\\Yazılım\\HBCampaignModule\\HBCampaignModule.ConsoleApp\\HBCampaignModule.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

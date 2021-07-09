@@ -1,0 +1,50 @@
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.exe
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.deps.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.runtimeconfig.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\ref\HBCampaignModule.ConsoleApp.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.AssemblyInfo.cs
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\ref\HBCampaignModule.ConsoleApp.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.genruntimeconfig.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csproj.CopyComplete
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Application.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Application.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.exe
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.deps.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.runtimeconfig.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.runtimeconfig.dev.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\ref\HBCampaignModule.ConsoleApp.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.ConsoleApp.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Application.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Application.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csprojAssemblyReference.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.AssemblyInfoInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.AssemblyInfo.cs
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.csproj.CopyComplete
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\ref\HBCampaignModule.ConsoleApp.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.ConsoleApp\obj\Debug\net5.0\HBCampaignModule.ConsoleApp.genruntimeconfig.cache

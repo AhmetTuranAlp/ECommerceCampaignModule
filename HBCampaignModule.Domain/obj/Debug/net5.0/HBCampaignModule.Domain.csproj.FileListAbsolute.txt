@@ -1,0 +1,24 @@
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.deps.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\ref\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.AssemblyInfoInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.AssemblyInfo.cs
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\ref\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.csprojAssemblyReference.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.deps.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\ref\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.AssemblyInfoInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.AssemblyInfo.cs
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.csproj.CoreCompileInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\ref\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Domain\obj\Debug\net5.0\HBCampaignModule.Domain.csprojAssemblyReference.cache

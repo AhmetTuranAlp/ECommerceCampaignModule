@@ -1,0 +1,30 @@
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.deps.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\ref\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.AssemblyInfo.cs
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csproj.CopyComplete
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\ref\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.deps.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\ref\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csprojAssemblyReference.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.AssemblyInfoInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.AssemblyInfo.cs
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.csproj.CopyComplete
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\ref\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Infrastructure\obj\Debug\net5.0\HBCampaignModule.Infrastructure.pdb

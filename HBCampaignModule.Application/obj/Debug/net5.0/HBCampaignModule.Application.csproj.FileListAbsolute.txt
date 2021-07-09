@@ -1,0 +1,34 @@
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.deps.json
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\ref\HBCampaignModule.Application.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csprojAssemblyReference.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.AssemblyInfoInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.AssemblyInfo.cs
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csproj.CopyComplete
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\ref\HBCampaignModule.Application.dll
+C:\Users\Ahmet Turan Alp\source\repos\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.deps.json
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\ref\HBCampaignModule.Application.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Application.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Domain.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Infrastructure.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Domain.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\bin\Debug\net5.0\HBCampaignModule.Infrastructure.pdb
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csprojAssemblyReference.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.AssemblyInfoInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.AssemblyInfo.cs
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csproj.CoreCompileInputs.cache
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.csproj.CopyComplete
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\ref\HBCampaignModule.Application.dll
+D:\Yazılım\HBCampaignModule\HBCampaignModule.Application\obj\Debug\net5.0\HBCampaignModule.Application.pdb
